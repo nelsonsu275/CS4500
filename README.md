@@ -1,5 +1,7 @@
 Homework 3 by Nelson Su 10/1/2019
+
 Course: CS 4500
+
 This program uses turtle graphics to paint blobs onto a painting. It takes in the grid size, N, and the number of
 paintings to do, K, as user inputs. This will allow the program to set up a grid of N * N dimensions. Then it will
 produce an array of 0's of the same dimensions and start randomly choosing a point or cell in the grid to increment
